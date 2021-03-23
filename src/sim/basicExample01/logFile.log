@@ -1,0 +1,386 @@
+2020-11-02 23:51:27,426 - root - INFO - Running experiment it: - 0
+2020-11-02 23:51:27,432 - root - INFO -  Performing simulation: 0 
+2020-11-03 14:25:47,326 - root - INFO - Running experiment it: - 0
+2020-11-03 14:25:47,357 - root - INFO -  Performing simulation: 0 
+2020-11-09 11:17:25,427 - root - INFO - Running experiment it: - 0
+2020-11-09 11:50:42,571 - root - INFO - Running experiment it: - 0
+2020-11-09 11:51:45,163 - root - INFO - Running experiment it: - 0
+2020-11-09 12:08:48,449 - root - INFO - Running experiment it: - 0
+2020-11-09 14:07:26,941 - root - INFO - Running experiment it: - 0
+2020-11-09 14:11:09,746 - root - INFO - Running experiment it: - 0
+2020-11-09 14:11:41,748 - root - INFO - Running experiment it: - 0
+2020-11-09 14:12:37,127 - root - INFO - Running experiment it: - 0
+2020-11-09 15:05:38,968 - root - INFO - Running experiment it: - 0
+2020-11-09 15:06:12,937 - root - INFO - Running experiment it: - 0
+2020-11-11 15:02:25,744 - root - INFO - Running experiment it: - 0
+2020-11-11 15:02:25,776 - root - INFO -  Performing simulation: 0 
+2020-11-12 08:11:52,055 - root - INFO - Running experiment it: - 0
+2020-11-12 08:11:52,198 - root - INFO -  Performing simulation: 0 
+2020-11-12 11:07:48,346 - root - INFO - Running experiment it: - 0
+2020-11-12 11:07:48,354 - root - INFO -  Performing simulation: 0 
+2020-11-12 11:08:26,141 - root - INFO - Running experiment it: - 0
+2020-11-12 11:08:26,149 - root - INFO -  Performing simulation: 0 
+2020-11-12 11:08:37,411 - root - INFO - Running experiment it: - 0
+2020-11-12 11:08:37,418 - root - INFO -  Performing simulation: 0 
+2020-11-12 11:49:16,737 - root - INFO - Running experiment it: - 0
+2020-11-12 11:49:16,746 - root - INFO -  Performing simulation: 0 
+2020-11-12 13:57:23,961 - root - INFO - Running experiment it: - 0
+2020-11-12 13:57:43,894 - root - INFO - Running experiment it: - 0
+2020-11-12 13:57:43,906 - root - INFO -  Performing simulation: 0 
+2020-11-12 15:15:38,862 - root - INFO - Running experiment it: - 0
+2020-11-12 15:15:38,872 - root - INFO -  Performing simulation: 0 
+2020-11-12 19:23:22,696 - root - INFO - Running experiment it: - 0
+2020-11-12 19:23:22,708 - root - INFO -  Performing simulation: 0 
+2020-11-12 19:27:28,486 - root - INFO - Running experiment it: - 0
+2020-11-12 19:27:28,499 - root - INFO -  Performing simulation: 0 
+2020-11-14 09:23:57,418 - root - INFO - Running experiment it: - 0
+2020-11-14 09:23:57,477 - root - INFO -  Performing simulation: 0 
+2020-11-18 10:39:21,724 - root - INFO - Running experiment it: - 0
+2020-11-18 10:39:21,763 - root - INFO -  Performing simulation: 0 
+2020-11-25 13:20:46,669 - root - INFO - Running experiment it: - 0
+2020-11-25 13:20:46,684 - root - INFO -  Performing simulation: 0 
+2020-11-26 08:03:31,638 - root - INFO - Running experiment it: - 0
+2020-11-26 08:03:31,695 - root - INFO -  Performing simulation: 0 
+2020-11-26 08:03:38,183 - root - INFO - Running experiment it: - 0
+2020-11-26 08:03:38,188 - root - INFO -  Performing simulation: 0 
+2020-11-26 08:08:26,164 - root - INFO - Running experiment it: - 0
+2020-11-26 08:08:26,168 - root - INFO -  Performing simulation: 0 
+2020-11-26 08:09:26,959 - root - INFO - Running experiment it: - 0
+2020-11-26 08:09:26,965 - root - INFO -  Performing simulation: 0 
+2020-11-26 08:09:49,801 - root - INFO - Running experiment it: - 0
+2020-11-26 08:09:49,806 - root - INFO -  Performing simulation: 0 
+2020-11-26 08:10:07,588 - root - INFO - Running experiment it: - 0
+2020-11-26 08:10:07,593 - root - INFO -  Performing simulation: 0 
+2020-11-26 13:38:31,051 - root - INFO - Running experiment it: - 0
+2020-11-26 13:38:31,056 - root - INFO -  Performing simulation: 0 
+2020-11-26 13:38:56,800 - root - INFO - Running experiment it: - 0
+2020-11-26 13:38:56,807 - root - INFO -  Performing simulation: 0 
+2020-11-26 13:44:49,115 - root - INFO - Running experiment it: - 0
+2020-11-26 13:44:49,120 - root - INFO -  Performing simulation: 0 
+2020-11-26 20:38:14,103 - root - INFO - Running experiment it: - 0
+2020-11-26 20:38:14,108 - root - INFO -  Performing simulation: 0 
+2020-11-27 16:53:51,252 - root - INFO - Running experiment it: - 0
+2020-11-27 16:53:51,284 - root - INFO -  Performing simulation: 0 
+2020-11-27 16:53:51,312 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,319 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,324 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,331 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,336 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,343 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,351 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,358 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,365 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,370 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,377 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,384 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,396 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,401 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,405 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,409 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,414 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,419 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,423 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,428 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,431 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,433 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,439 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,441 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,446 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,449 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,452 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,455 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,461 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,464 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,468 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,470 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,475 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,477 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,480 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,484 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,487 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,494 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,499 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,501 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,505 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,508 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,511 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,513 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,514 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,516 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,517 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,519 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,520 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,522 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,524 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,526 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,527 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,529 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,532 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,534 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,536 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,539 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,541 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,543 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,545 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,547 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,551 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,554 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,557 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,561 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,565 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,569 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,574 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,578 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,582 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,586 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,591 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,594 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,596 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,603 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,608 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,610 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,612 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,615 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,617 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,620 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,622 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,627 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,629 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,632 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,636 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,639 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,642 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,645 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,647 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,651 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,653 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,655 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,657 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,659 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,661 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,663 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,666 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,669 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,671 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,676 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,678 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,680 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,683 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,685 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,687 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,690 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,693 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,695 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,698 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,700 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,703 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,706 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,708 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,710 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,712 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,715 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,717 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,720 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,722 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,724 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,727 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,730 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,732 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,735 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,736 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,739 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,740 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,742 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,745 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,746 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,748 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,750 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,752 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,754 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,756 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,758 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,760 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,763 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,764 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,766 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,768 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,770 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,771 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,773 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,776 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,778 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,781 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,783 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,784 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,786 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,788 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,790 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,792 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,794 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,796 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,798 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,799 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,801 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,803 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,805 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,806 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,808 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,810 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,812 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,814 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,816 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,819 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,822 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,823 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,825 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,827 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,829 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,831 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,834 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,836 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,838 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,841 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,844 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,847 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,849 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,850 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,852 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,854 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,856 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,858 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,861 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,864 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,867 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,870 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,873 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,877 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,880 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,883 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,886 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,888 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,891 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:53:51,893 - yafs.selection - WARNING - There is no path between two nodes: 4 - 0 
+2020-11-27 16:59:28,585 - root - INFO - Running experiment it: - 0
+2020-11-27 16:59:28,591 - root - INFO -  Performing simulation: 0 
+2020-11-27 17:00:17,774 - root - INFO - Running experiment it: - 0
+2020-11-27 17:00:17,788 - root - INFO -  Performing simulation: 0 
+2020-11-27 17:00:56,286 - root - INFO - Running experiment it: - 0
+2020-11-27 17:00:56,299 - root - INFO -  Performing simulation: 0 
+2020-11-27 17:04:22,576 - root - INFO - Running experiment it: - 0
+2020-11-27 17:04:22,680 - root - INFO -  Performing simulation: 0 
+2020-11-27 17:12:12,378 - root - INFO - Running experiment it: - 0
+2020-11-27 17:12:12,386 - root - INFO -  Performing simulation: 0 
+2020-11-30 09:26:37,312 - root - INFO - Running experiment it: - 0
+2020-11-30 09:26:37,346 - root - INFO -  Performing simulation: 0 
+2020-11-30 13:45:13,703 - root - INFO - Running experiment it: - 0
+2020-11-30 13:45:13,708 - root - INFO -  Performing simulation: 0 
+2020-11-30 13:45:59,806 - root - INFO - Running experiment it: - 0
+2020-11-30 13:45:59,813 - root - INFO -  Performing simulation: 0 
+2020-11-30 13:50:14,298 - root - INFO - Running experiment it: - 0
+2020-11-30 13:50:14,306 - root - INFO -  Performing simulation: 0 
+2020-11-30 13:50:50,865 - root - INFO - Running experiment it: - 0
+2020-11-30 13:50:50,874 - root - INFO -  Performing simulation: 0 
+2020-11-30 16:40:31,578 - root - INFO - Running experiment it: - 0
+2020-11-30 16:40:31,584 - root - INFO -  Performing simulation: 0 
+2020-11-30 16:41:54,883 - root - INFO - Running experiment it: - 0
+2020-11-30 16:41:54,892 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:43:34,956 - root - INFO - Running experiment it: - 0
+2020-11-30 22:43:34,960 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:49:36,099 - root - INFO - Running experiment it: - 0
+2020-11-30 22:49:36,104 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:50:43,463 - root - INFO - Running experiment it: - 0
+2020-11-30 22:50:43,469 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:51:00,163 - root - INFO - Running experiment it: - 0
+2020-11-30 22:51:00,167 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:52:02,455 - root - INFO - Running experiment it: - 0
+2020-11-30 22:52:02,461 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:55:35,050 - root - INFO - Running experiment it: - 0
+2020-11-30 22:55:35,056 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:56:18,040 - root - INFO - Running experiment it: - 0
+2020-11-30 22:56:18,044 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:56:39,353 - root - INFO - Running experiment it: - 0
+2020-11-30 22:56:39,359 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:57:34,390 - root - INFO - Running experiment it: - 0
+2020-11-30 22:57:34,394 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:57:47,132 - root - INFO - Running experiment it: - 0
+2020-11-30 22:57:47,135 - root - INFO -  Performing simulation: 0 
+2020-11-30 22:58:39,824 - root - INFO - Running experiment it: - 0
+2020-11-30 22:58:39,830 - root - INFO -  Performing simulation: 0 
+2020-12-02 19:19:46,073 - root - INFO - Running experiment it: - 0
+2020-12-02 19:19:46,107 - root - INFO -  Performing simulation: 0 
+2020-12-02 20:54:44,084 - root - INFO - Running experiment it: - 0
+2020-12-02 20:54:44,088 - root - INFO -  Performing simulation: 0 
+2020-12-02 21:46:13,209 - root - INFO - Running experiment it: - 0
+2020-12-02 21:46:13,214 - root - INFO -  Performing simulation: 0 
+2020-12-02 21:46:42,115 - root - INFO - Running experiment it: - 0
+2020-12-02 21:46:42,122 - root - INFO -  Performing simulation: 0 
+2020-12-02 21:55:05,693 - root - INFO - Running experiment it: - 0
+2020-12-02 21:55:05,697 - root - INFO -  Performing simulation: 0 
+2020-12-02 21:55:38,980 - root - INFO - Running experiment it: - 0
+2020-12-02 21:55:38,985 - root - INFO -  Performing simulation: 0 
+2020-12-02 21:55:48,214 - root - INFO - Running experiment it: - 0
+2020-12-02 21:55:48,219 - root - INFO -  Performing simulation: 0 
+2020-12-02 21:56:40,565 - root - INFO - Running experiment it: - 0
+2020-12-02 21:56:40,570 - root - INFO -  Performing simulation: 0 
+2020-12-02 21:57:57,731 - root - INFO - Running experiment it: - 0
+2020-12-02 21:57:57,738 - root - INFO -  Performing simulation: 0 
+2020-12-02 21:58:15,407 - root - INFO - Running experiment it: - 0
+2020-12-02 21:58:15,413 - root - INFO -  Performing simulation: 0 
+2020-12-02 22:00:05,431 - root - INFO - Running experiment it: - 0
+2020-12-02 22:00:05,438 - root - INFO -  Performing simulation: 0 
+2020-12-02 22:00:35,392 - root - INFO - Running experiment it: - 0
+2020-12-02 22:00:35,398 - root - INFO -  Performing simulation: 0 
+2020-12-02 22:01:03,701 - root - INFO - Running experiment it: - 0
+2020-12-02 22:01:03,706 - root - INFO -  Performing simulation: 0 
+2020-12-04 08:54:56,664 - root - INFO - Running experiment it: - 0
+2020-12-04 08:54:56,711 - root - INFO -  Performing simulation: 0 
+2020-12-04 10:33:05,676 - root - INFO - Running experiment it: - 0
+2020-12-04 10:33:05,681 - root - INFO -  Performing simulation: 0 
+2020-12-04 10:33:56,228 - root - INFO - Running experiment it: - 0
+2020-12-04 10:34:02,963 - root - INFO - Running experiment it: - 0
+2020-12-04 10:34:44,884 - root - INFO - Running experiment it: - 0
+2020-12-04 11:06:37,026 - root - INFO - Running experiment it: - 0
+2020-12-04 11:06:37,032 - root - INFO -  Performing simulation: 0 
+2020-12-05 18:15:50,027 - root - INFO - Running experiment it: - 0
+2020-12-05 18:15:50,086 - root - INFO -  Performing simulation: 0 
+2020-12-07 17:17:03,298 - root - INFO - Running experiment it: - 0
+2020-12-07 17:17:03,303 - root - INFO -  Performing simulation: 0 
+2020-12-09 12:46:57,989 - root - INFO - Running experiment it: - 0
+2020-12-09 12:46:58,035 - root - INFO -  Performing simulation: 0 
+2020-12-21 17:21:31,547 - root - INFO - Running experiment it: - 0
+2020-12-21 17:21:31,613 - root - INFO -  Performing simulation: 0 
+2021-03-06 21:32:39,438 - root - INFO - Running experiment it: - 0
+2021-03-06 21:33:18,794 - root - INFO - Running experiment it: - 0
+2021-03-06 21:33:39,405 - root - INFO - Running experiment it: - 0
+2021-03-06 21:34:35,321 - root - INFO - Running experiment it: - 0
+2021-03-06 21:34:35,367 - root - INFO -  Performing simulation: 0 
+2021-03-06 21:38:03,112 - root - INFO - Running experiment it: - 0
+2021-03-06 21:38:03,176 - root - INFO -  Performing simulation: 0 
+2021-03-06 21:40:00,950 - root - INFO - Running experiment it: - 0
+2021-03-06 21:40:01,002 - root - INFO -  Performing simulation: 0 
+2021-03-06 21:41:51,233 - root - INFO - Running experiment it: - 0
+2021-03-06 21:41:51,290 - root - INFO -  Performing simulation: 0 
+2021-03-06 21:44:15,509 - root - INFO - Running experiment it: - 0
+2021-03-06 21:44:15,557 - root - INFO -  Performing simulation: 0 
+2021-03-07 17:31:53,568 - root - INFO - Running experiment it: - 0
+2021-03-07 17:31:53,631 - root - INFO -  Performing simulation: 0 
+2021-03-07 17:34:10,271 - root - INFO - Running experiment it: - 0
+2021-03-07 17:34:10,322 - root - INFO -  Performing simulation: 0 
+2021-03-07 17:35:51,028 - root - INFO - Running experiment it: - 0
+2021-03-07 17:35:51,090 - root - INFO -  Performing simulation: 0 
+2021-03-07 17:45:43,110 - root - INFO - Running experiment it: - 0
+2021-03-07 17:45:43,163 - root - INFO -  Performing simulation: 0 
+2021-03-07 17:45:52,741 - root - INFO - Running experiment it: - 0
+2021-03-07 17:45:52,814 - root - INFO -  Performing simulation: 0 
+2021-03-07 17:58:42,338 - root - INFO - Running experiment it: - 0
+2021-03-07 17:58:42,394 - root - INFO -  Performing simulation: 0 
+2021-03-07 20:20:39,051 - root - INFO - Running experiment it: - 0
+2021-03-07 20:20:39,057 - root - INFO -  Performing simulation: 0 
+2021-03-07 20:23:10,649 - root - INFO - Running experiment it: - 0
+2021-03-07 20:23:10,725 - root - INFO -  Performing simulation: 0 
+2021-03-07 20:23:38,917 - root - INFO - Running experiment it: - 0
+2021-03-07 20:23:39,031 - root - INFO -  Performing simulation: 0 
+2021-03-11 18:00:39,281 - root - INFO - Running experiment it: - 0
+2021-03-11 18:00:39,436 - root - INFO -  Performing simulation: 0 
+2021-03-16 08:48:12,877 - root - INFO - Running experiment it: - 0
+2021-03-16 08:48:13,031 - root - INFO -  Performing simulation: 0 

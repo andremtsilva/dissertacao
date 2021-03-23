@@ -1,0 +1,71 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CLOUDBW	experimentGenerator.py	/^CLOUDBW = 999$/;"	v
+CLOUDCAPACITY	experimentGenerator.py	/^CLOUDCAPACITY = 9999999999999999$/;"	v
+CLOUDPOWERmax	experimentGenerator.py	/^CLOUDPOWERmax = 10000$/;"	v
+CLOUDPOWERmin	experimentGenerator.py	/^CLOUDPOWERmin = 5000$/;"	v
+CLOUDPR	experimentGenerator.py	/^CLOUDPR = 99$/;"	v
+CLOUDSPEED	experimentGenerator.py	/^CLOUDSPEED = 9999$/;"	v
+G	generatorInfrastructure.py	/^G = nx.gaussian_random_partition_graph(n, s, v, p_in, p_out, directed=False, seed=10)$/;"	v
+PERCENTATGEOFGATEWAYS	experimentGenerator.py	/^PERCENTATGEOFGATEWAYS = 0.2$/;"	v
+TOTALNUMBEROFAPPS	experimentGenerator.py	/^TOTALNUMBEROFAPPS = 10$/;"	v
+appGeneration	experimentGenerator.py	/^def appGeneration():$/;"	f
+appJson	experimentGenerator.py	/^    appJson = appGeneration()$/;"	v
+capacity	generatorInfrastructure.py	/^capacity = dict(zip(G.nodes(), np.ones(len(G.nodes()))*capacity_size))$/;"	v
+capacity_size	generatorInfrastructure.py	/^capacity_size = 6$/;"	v
+degrees	generatorInfrastructure.py	/^degrees = sorted(G.degree, key=lambda x: x[1], reverse=False)$/;"	v
+func_APPDEADLINE	experimentGenerator.py	/^func_APPDEADLINE="random.randint(2600,6600)" #MS$/;"	v
+func_APPGENERATION	experimentGenerator.py	/^func_APPGENERATION = "nx.gn_graph(random.randint(2,10))" #algorithm for the generation of the random applications$/;"	v
+func_BANDWITDH	experimentGenerator.py	/^func_BANDWITDH = "random.randint(10,20)"$/;"	v
+func_NODERESOURECES	experimentGenerator.py	/^func_NODERESOURECES = "random.randint(1,1)" #random distribution for the resources of the fog devices$/;"	v
+func_NODESPEED	experimentGenerator.py	/^func_NODESPEED = "random.randint(20,60)" #random distribution for the speed of the fog devices$/;"	v
+func_POWERmax	experimentGenerator.py	/^func_POWERmax = "random.randint(400,1000)"$/;"	v
+func_POWERmin	experimentGenerator.py	/^func_POWERmin = "random.randint(50,300)"$/;"	v
+func_PROPAGATIONTIME	experimentGenerator.py	/^func_PROPAGATIONTIME = "random.randint(5,20)" #it is change by the tier node value$/;"	v
+func_REQUESTPROB	experimentGenerator.py	/^func_REQUESTPROB=".08"$/;"	v
+func_SERVICEINSTR	experimentGenerator.py	/^func_SERVICEINSTR = "random.randint(20000,60000)" #INSTR --> teniedno en cuenta nodespped esto nos da entre 200 y 600 MS$/;"	v
+func_SERVICEMESSAGESIZE	experimentGenerator.py	/^func_SERVICEMESSAGESIZE = "random.randint(1500000,4500000)" #BYTES y teniendo en cuenta net bandwidth nos da entre 20 y 60 MS$/;"	v
+func_SERVICERESOURCES	experimentGenerator.py	/^func_SERVICERESOURCES = "random.randint(1,6)" #MB de ram que consume el servicio, teniendo en cuenta noderesources y appgeneration tenemos que nos caben aprox 1 app por nodo o unos 10 servicios$/;"	v
+func_USERREQRAT	experimentGenerator.py	/^func_USERREQRAT="random.randint(100,1000)"    $/;"	v
+future_draw_dim	generatorInfrastructure.py	/^future_draw_dim = 150$/;"	v
+get_nodes_with_services	generatorInfrastructure.py	/^def get_nodes_with_services(G):$/;"	f
+idcloud	experimentGenerator.py	/^    idcloud = 153$/;"	v
+initialAllocationCloud	experimentGenerator.py	/^def initialAllocationCloud(apps,idcloud):$/;"	f
+initjson	experimentGenerator.py	/^    initjson = initialAllocationCloud(appJson,idcloud)$/;"	v
+inlabels	generatorInfrastructure.py	/^inlabels = ["(%i,%i)"%(normalizedX[x],normalizedY[x]) for x in range(len(normalizedX))]$/;"	v
+ipt	generatorInfrastructure.py	/^ipt = 1000$/;"	v
+iptvalues	generatorInfrastructure.py	/^iptvalues= dict(zip(G.nodes(), np.ones(len(G.nodes()))*ipt))$/;"	v
+loc	generatorInfrastructure.py	/^loc = np.array(list(pos.values()))$/;"	v
+maxXvalue	generatorInfrastructure.py	/^maxXvalue = loc[:,0].max()$/;"	v
+maxYvalue	generatorInfrastructure.py	/^maxYvalue = loc[:,1].max()$/;"	v
+minXvalue	generatorInfrastructure.py	/^minXvalue = loc[:,0].min()$/;"	v
+minYvalue	generatorInfrastructure.py	/^minYvalue = loc[:,1].min()$/;"	v
+myDeadlines	experimentGenerator.py	/^myDeadlines = [487203.22, 487203.22,487203.22,474.51,302.05,831.04,793.26,1582.21,2214.64,374046.40,420476.14,2464.69,97999.14,2159.73,915.16,1659.97,1059.97,322898.56,1817.51,406034.73]$/;"	v
+n	generatorInfrastructure.py	/^n = number_nodes$/;"	v
+net	generatorInfrastructure.py	/^net = {}$/;"	v
+networkGeneration	experimentGenerator.py	/^def networkGeneration(pathTXT,idcloud): $/;"	f
+normalizedX	generatorInfrastructure.py	/^normalizedX = (future_draw_dim * (loc[:, 0] - minXvalue) \/ (maxXvalue - minXvalue)).astype(int)$/;"	v
+normalizedY	generatorInfrastructure.py	/^normalizedY = (future_draw_dim * (loc[:, 1] - minYvalue) \/ (maxYvalue - minYvalue)).astype(int)$/;"	v
+number_nodes	generatorInfrastructure.py	/^number_nodes = 100$/;"	v
+number_users	generatorInfrastructure.py	/^number_users = 30$/;"	v
+p_in	generatorInfrastructure.py	/^p_in = 0.02$/;"	v
+p_out	generatorInfrastructure.py	/^p_out = 0.01$/;"	v
+pathTXT	experimentGenerator.py	/^    pathTXT = "topology\/GLP-200n-idc153.txt"$/;"	v
+pathTXT	experimentGenerator.py	/^    pathTXT = "topology\/GLP-400n-idc94.txt"$/;"	v
+pos	generatorInfrastructure.py	/^pos = nx.spring_layout(G,k=1.2,pos=pos1,scale=2.0)$/;"	v
+pos1	generatorInfrastructure.py	/^pos1 = nx.kamada_kawai_layout(G)$/;"	v
+posNorm	generatorInfrastructure.py	/^posNorm = dict(zip(G.nodes(),zip(normalizedX,normalizedY)))$/;"	v
+posTopo	generatorInfrastructure.py	/^posTopo = dict(zip(G.nodes(),inlabels))$/;"	v
+render	generatorInfrastructure.py	/^def render(G,posNorm,total_services=2):$/;"	f
+s	generatorInfrastructure.py	/^s = 60$/;"	v
+shapes	generatorInfrastructure.py	/^shapes = dict(zip(G.nodes(),values))$/;"	v
+userGeneration	experimentGenerator.py	/^def userGeneration(id_gateways,G):$/;"	f
+userJson	experimentGenerator.py	/^    userJson = userGeneration(cloudgatewaysDevices,G)$/;"	v
+users	generatorInfrastructure.py	/^users = {}$/;"	v
+v	generatorInfrastructure.py	/^v = 0.3$/;"	v
+values	generatorInfrastructure.py	/^values = (("(2,3)|"*len(G.nodes())).split("|"))[:-1]$/;"	v
+valuesOne	generatorInfrastructure.py	/^valuesOne = dict(zip(G.edges(), np.ones(len(G.edges()))))$/;"	v

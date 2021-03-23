@@ -1,0 +1,13 @@
+# Deployment of modules
+1.x all modules are deployed according to initial allocation file. Basic exemple all six modules are deployed in node 0. Just the first four modules receive messages
+from the for users created.
+
+
+# Users
+1. os usuários definidos em usersDefinition.json enviam mensagens.
+
+1.x vinculo de app, s.app e messages?
+
+1.x a função deploy_source utiliza os parametros do arquivo json mais a distribuição de tempo de envio de mensagens. No caso básico distribuição deterministica de envio de mensagem a cada 100 unidades de tempo.
+
+1.x a função deploy_sources retorna um valor de idDES que é o identificador do evento simulado discreto (processo que envia a mensagem)

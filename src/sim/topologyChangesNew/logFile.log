@@ -1,0 +1,101 @@
+2020-11-05 09:03:30,765 - root - INFO - Running experiment it: - 0
+2020-11-05 09:03:30,806 - root - INFO -  Performing simulation: 0 
+2020-11-05 09:03:30,864 - root - INFO -  A new node is created between 31 and 16 with ID: 32
+2020-11-05 09:03:30,872 - root - INFO -  A new node is created between 20 and 31 with ID: 33
+2020-11-05 09:03:30,885 - root - INFO -  A new node is created between 13 and 33 with ID: 34
+2020-11-05 09:03:30,900 - root - INFO -  A new node is created between 8 and 6 with ID: 35
+2020-11-05 09:03:30,910 - root - INFO -  A new node is created between 16 and 35 with ID: 36
+2020-11-05 09:03:30,929 - root - INFO -  A new node is created between 4 and 21 with ID: 37
+2020-11-05 09:03:30,939 - root - INFO -  A new node is created between 6 and 22 with ID: 38
+2020-11-05 09:03:30,948 - root - INFO -  A new node is created between 14 and 37 with ID: 39
+2020-11-05 09:03:30,958 - root - INFO -  A new node is created between 35 and 17 with ID: 40
+2020-11-05 09:03:30,968 - root - INFO -  A new node is created between 37 and 0 with ID: 41
+2020-11-05 09:03:30,977 - root - INFO -  A new node is created between 28 and 0 with ID: 42
+2020-11-05 09:03:30,985 - root - INFO -  A new node is created between 21 and 16 with ID: 43
+2020-11-18 10:40:32,878 - root - INFO - Running experiment it: - 0
+2020-11-18 10:40:33,033 - root - INFO -  Performing simulation: 0 
+2020-11-18 10:40:33,114 - root - INFO -  A new node is created between 31 and 16 with ID: 32
+2020-11-18 10:40:33,125 - root - INFO -  A new node is created between 20 and 31 with ID: 33
+2020-11-18 10:40:33,135 - root - INFO -  A new node is created between 13 and 33 with ID: 34
+2020-11-18 10:40:33,146 - root - INFO -  A new node is created between 8 and 6 with ID: 35
+2020-11-18 10:40:33,156 - root - INFO -  A new node is created between 16 and 35 with ID: 36
+2020-11-18 10:40:33,181 - root - INFO -  A new node is created between 4 and 21 with ID: 37
+2020-11-18 10:40:33,191 - root - INFO -  A new node is created between 6 and 22 with ID: 38
+2020-11-18 10:40:33,202 - root - INFO -  A new node is created between 14 and 37 with ID: 39
+2020-11-18 10:40:33,214 - root - INFO -  A new node is created between 35 and 17 with ID: 40
+2020-11-18 10:40:33,229 - root - INFO -  A new node is created between 37 and 0 with ID: 41
+2020-11-18 10:40:33,240 - root - INFO -  A new node is created between 28 and 0 with ID: 42
+2020-11-18 10:40:33,251 - root - INFO -  A new node is created between 21 and 16 with ID: 43
+2020-11-19 17:45:12,507 - root - INFO - Running experiment it: - 0
+2020-11-19 17:45:12,621 - root - INFO -  Performing simulation: 0 
+2020-11-19 17:45:12,787 - root - INFO -  A new node is created between 31 and 16 with ID: 32
+2020-11-19 17:45:12,800 - root - INFO -  A new node is created between 20 and 31 with ID: 33
+2020-11-19 17:45:12,812 - root - INFO -  A new node is created between 13 and 33 with ID: 34
+2020-11-19 17:45:12,824 - root - INFO -  A new node is created between 8 and 6 with ID: 35
+2020-11-19 17:45:12,847 - root - INFO -  A new node is created between 16 and 35 with ID: 36
+2020-11-19 17:45:12,873 - root - INFO -  A new node is created between 4 and 21 with ID: 37
+2020-11-19 17:45:12,886 - root - INFO -  A new node is created between 6 and 22 with ID: 38
+2020-11-19 17:45:12,899 - root - INFO -  A new node is created between 14 and 37 with ID: 39
+2020-11-19 17:45:12,911 - root - INFO -  A new node is created between 35 and 17 with ID: 40
+2020-11-19 17:45:12,923 - root - INFO -  A new node is created between 37 and 0 with ID: 41
+2020-11-19 17:45:12,933 - root - INFO -  A new node is created between 28 and 0 with ID: 42
+2020-11-19 17:45:12,944 - root - INFO -  A new node is created between 21 and 16 with ID: 43
+2020-11-25 13:41:24,183 - root - INFO - Running experiment it: - 0
+2020-11-25 13:41:24,276 - root - INFO -  Performing simulation: 0 
+2020-11-25 13:41:24,367 - root - INFO -  A new node is created between 2 and 1 with ID: 3
+2020-11-25 13:41:24,376 - root - INFO -  A new node is created between 2 and 3 with ID: 4
+2020-11-25 13:41:24,396 - root - INFO -  A new node is created between 1 and 4 with ID: 5
+2020-11-25 13:41:24,413 - root - INFO -  A new node is created between 1 and 0 with ID: 6
+2020-11-25 13:41:24,428 - root - INFO -  A new node is created between 2 and 4 with ID: 7
+2020-11-25 13:41:24,453 - root - INFO -  A new node is created between 6 and 0 with ID: 8
+2020-11-25 13:41:24,481 - root - INFO -  A new node is created between 0 and 3 with ID: 9
+2020-11-25 13:41:24,491 - root - INFO -  A new node is created between 4 and 9 with ID: 10
+2020-11-25 13:41:24,503 - root - INFO -  A new node is created between 10 and 5 with ID: 11
+2020-11-25 13:41:24,516 - root - INFO -  A new node is created between 10 and 0 with ID: 12
+2020-11-25 13:41:24,526 - root - INFO -  A new node is created between 8 and 12 with ID: 13
+2020-11-25 13:41:24,541 - root - INFO -  A new node is created between 11 and 9 with ID: 14
+2021-01-06 10:34:42,050 - root - INFO - Running experiment it: - 0
+2021-01-06 10:34:42,062 - root - INFO -  Performing simulation: 0 
+2021-01-06 10:34:42,512 - root - INFO -  A new node is created between 54 and 137 with ID: 200
+2021-01-06 10:34:42,580 - root - INFO -  A new node is created between 148 and 133 with ID: 201
+2021-01-06 10:34:42,642 - root - INFO -  A new node is created between 140 and 169 with ID: 202
+2021-01-06 10:34:42,702 - root - INFO -  A new node is created between 124 and 158 with ID: 203
+2021-01-06 10:34:42,760 - root - INFO -  A new node is created between 131 and 134 with ID: 204
+2021-01-06 10:34:42,824 - root - INFO -  A new node is created between 190 and 20 with ID: 205
+2021-01-06 10:34:42,886 - root - INFO -  A new node is created between 130 and 45 with ID: 206
+2021-01-06 10:34:42,948 - root - INFO -  A new node is created between 63 and 81 with ID: 207
+2021-01-06 10:34:43,071 - root - INFO -  A new node is created between 180 and 44 with ID: 208
+2021-01-06 10:34:43,134 - root - INFO -  A new node is created between 196 and 152 with ID: 209
+2021-01-06 10:34:43,202 - root - INFO -  A new node is created between 206 and 95 with ID: 210
+2021-01-06 10:34:43,265 - root - INFO -  A new node is created between 31 and 202 with ID: 211
+2021-01-06 10:34:43,329 - root - INFO -  A new node is created between 170 and 90 with ID: 212
+2021-01-08 19:59:27,362 - root - INFO - Running experiment it: - 0
+2021-01-08 19:59:27,530 - root - INFO -  Performing simulation: 0 
+2021-01-08 19:59:27,926 - root - INFO -  A new node is created between 54 and 137 with ID: 200
+2021-01-08 19:59:27,984 - root - INFO -  A new node is created between 148 and 133 with ID: 201
+2021-01-08 19:59:28,041 - root - INFO -  A new node is created between 140 and 169 with ID: 202
+2021-01-08 19:59:28,106 - root - INFO -  A new node is created between 124 and 158 with ID: 203
+2021-01-08 19:59:28,165 - root - INFO -  A new node is created between 131 and 134 with ID: 204
+2021-01-08 19:59:28,234 - root - INFO -  A new node is created between 190 and 20 with ID: 205
+2021-01-08 19:59:28,307 - root - INFO -  A new node is created between 130 and 45 with ID: 206
+2021-01-08 19:59:28,372 - root - INFO -  A new node is created between 63 and 81 with ID: 207
+2021-01-08 19:59:28,491 - root - INFO -  A new node is created between 180 and 44 with ID: 208
+2021-01-08 19:59:28,553 - root - INFO -  A new node is created between 196 and 152 with ID: 209
+2021-01-08 19:59:28,621 - root - INFO -  A new node is created between 206 and 95 with ID: 210
+2021-01-08 19:59:28,682 - root - INFO -  A new node is created between 31 and 202 with ID: 211
+2021-01-08 19:59:28,746 - root - INFO -  A new node is created between 170 and 90 with ID: 212
+2021-01-08 20:00:18,928 - root - INFO - Running experiment it: - 0
+2021-01-08 20:00:18,951 - root - INFO -  Performing simulation: 0 
+2021-01-08 20:00:19,305 - root - INFO -  A new node is created between 54 and 137 with ID: 200
+2021-01-08 20:00:19,378 - root - INFO -  A new node is created between 148 and 133 with ID: 201
+2021-01-08 20:00:19,441 - root - INFO -  A new node is created between 140 and 169 with ID: 202
+2021-01-08 20:00:19,502 - root - INFO -  A new node is created between 124 and 158 with ID: 203
+2021-01-08 20:00:19,563 - root - INFO -  A new node is created between 131 and 134 with ID: 204
+2021-01-08 20:00:19,624 - root - INFO -  A new node is created between 190 and 20 with ID: 205
+2021-01-08 20:00:19,787 - root - INFO -  A new node is created between 130 and 45 with ID: 206
+2021-01-08 20:00:19,850 - root - INFO -  A new node is created between 63 and 81 with ID: 207
+2021-01-08 20:00:19,989 - root - INFO -  A new node is created between 180 and 44 with ID: 208
+2021-01-08 20:00:20,050 - root - INFO -  A new node is created between 196 and 152 with ID: 209
+2021-01-08 20:00:20,116 - root - INFO -  A new node is created between 206 and 95 with ID: 210
+2021-01-08 20:00:20,181 - root - INFO -  A new node is created between 31 and 202 with ID: 211
+2021-01-08 20:00:20,242 - root - INFO -  A new node is created between 170 and 90 with ID: 212

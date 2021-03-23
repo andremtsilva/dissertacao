@@ -1,0 +1,1 @@
+{"sources": [{"id_resource": 6, "app": 1, "message": "M.USER.APP.1", "lambda": 100, "start": 20, "constraint": {"deadline": 500, "cost": 300}}]}

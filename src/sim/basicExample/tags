@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+df	results/exploratory.py	/^df = pd.read_csv(s_trace)$/;"	v
+it	main.py	/^             it=iteration)$/;"	v
+main	main.py	/^def main(stop_time, it):$/;"	f
+nIterations	main.py	/^    nIterations = 1  # iteration for each experiment$/;"	v
+s_trace	results/exploratory.py	/^s_trace = 'sim_trace.csv'$/;"	v
+simulationDuration	main.py	/^    simulationDuration = 20000$/;"	v
+start_time	main.py	/^        start_time = time.time()$/;"	v
